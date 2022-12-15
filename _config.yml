@@ -55,6 +55,8 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: AlexanderPaulStevens
   twitter: daattali
+  ORCID: my-orcid?orcid=0000-0001-6140-8788
+  google-scholar: citations?user=fNeFT5EAAAAJ&hl=en
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -69,9 +71,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
-ORCID: my-orcid?orcid=0000-0001-6140-8788
-google-scholar: citations?user=fNeFT5EAAAAJ&hl=en
+#  mastodon: instance.url/@username  
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
