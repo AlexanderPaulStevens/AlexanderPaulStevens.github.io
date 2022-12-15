@@ -47,10 +47,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  email: "alexander.stevens@kuleuven.be"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: AlexanderPaulStevens
-  twitter: daattali
+  twitter: APMJStevens
   ORCID: my-orcid?orcid=0000-0001-6140-8788
   google-scholar: citations?user=fNeFT5EAAAAJ&hl=en
 #  medium: yourname
