@@ -20,8 +20,9 @@ author: Alexander Paul Stevens
 ###############################################
 
 navbar-links:
-    About Me: aboutme
+    #About Me: aboutme
     Explainability: "explainability"
+    Robustness: "robustness"
 
 ################
 # --- Logo --- #
