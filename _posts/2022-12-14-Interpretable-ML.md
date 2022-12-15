@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interpretable Machine Learning
-subtitle: A must read book provided by Christoph Molnar
+subtitle: A must read book written by Christoph Molnar
 cover-img: /assets/img/explainability.jpg
 thumbnail-img: /assets/img/IML.png
 share-img: /assets/img/explainability.jpg
