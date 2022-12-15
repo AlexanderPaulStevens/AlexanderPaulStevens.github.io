@@ -6,16 +6,6 @@ show-avatar: True
 
 ![robustness](https://user-images.githubusercontent.com/75080516/207947027-cd6d329e-04cf-4721-ba49-060b17372979.png)
 
-## Adversarial Attacks
-
-These are attacks designed to fool your machine learning model
-
-## Adversarial Examples
-
-The examples that are very similar to your data, but have a different prediction than the original instance.
-
-(to be continued)
-
 ---
 # Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks
 *Alexander Stevens, Johannes De Smedt, Jari Peeperkorn, Jochen De Weerdt*
