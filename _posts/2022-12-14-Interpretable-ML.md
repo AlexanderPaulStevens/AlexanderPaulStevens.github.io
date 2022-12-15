@@ -3,7 +3,7 @@ layout: post
 title: Interpretable Machine Learning
 subtitle: A must read book provided by Christoph Molnar
 cover-img: /assets/img/explainability.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/IML.png
 share-img: /assets/img/explainability.jpg
 tags: [books, XAI]
 comments: true
