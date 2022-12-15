@@ -2,7 +2,7 @@
 layout: post
 title: Quantifying Explainability in Outcome-Oriented Predictive Process Monitoring
 subtitle: Alexander Stevens, Johannes De Smedt, Jari Peeperkorn
-thumbnail-img: /assets/img/guidelines.png
+thumbnail-img: /assets/img/definition.png
 tags: [conference, explainability, XAI]
 comments: true
 ---
@@ -29,3 +29,4 @@ own explanations are proposed in the OOPPM context. These models
 are benchmarked with two common state-of-the-art models with posthoc
 explanation techniques in the explainability-performance space.
 
+![definition](https://user-images.githubusercontent.com/75080516/207955809-7142abfd-b71a-4ffe-8889-c1078db73028.PNG)
