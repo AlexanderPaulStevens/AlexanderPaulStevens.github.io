@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/framework_robustness.png
 share-img: /assets/img/robustness.png
 tags: [conference, robustness, XAI]
 comments: true
+
 ---
 
 As machine and deep learning models are increasingly leveraged in predictive process monitoring, the focus has shifted towards making these models explainable. 
