@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Alexander Paul Stevens (work in progress)
+title: Alexander Paul Stevens (WiP)
 subtitle: GitPage for Alexander Paul Stevens
 ---
 
