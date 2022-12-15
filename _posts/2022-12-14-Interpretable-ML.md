@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Interesting book (must read when interesting in Explainable AI)
-subtitle: Interpretable Machine Learning: A Guide for Making Black Box Models Explainable
+title: 
+subtitle: 
 cover-img: /assets/img/explainability.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/explainability.jpg
 tags: [books, XAI]
+comments: true
 ---
-
 
 Machine learning has great potential for improving products, processes and research. But computers usually do not explain their predictions which is a barrier to the adoption of machine learning. This book is about making machine learning models and their decisions interpretable.
 
