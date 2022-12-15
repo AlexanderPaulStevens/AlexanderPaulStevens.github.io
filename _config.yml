@@ -53,7 +53,7 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: daattali
+  github: AlexanderPaulStevens
   twitter: daattali
 #  medium: yourname
 #  reddit: yourname
@@ -70,8 +70,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-ORCID: "https://orcid.org/my-orcid?orcid=0000-0001-6140-8788"
-google-scholar: "https://scholar.google.be/citations?user=fNeFT5EAAAAJ&hl=en"
+ORCID: my-orcid?orcid=0000-0001-6140-8788
+google-scholar: citations?user=fNeFT5EAAAAJ&hl=en
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
