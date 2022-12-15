@@ -4,6 +4,8 @@ layout: page
 show-avatar: True
 ---
 
+![robustness](https://user-images.githubusercontent.com/75080516/207947027-cd6d329e-04cf-4721-ba49-060b17372979.png)
+
 ## Adversarial Attacks
 
 These are attacks designed to fool your machine learning model
@@ -15,14 +17,10 @@ The examples that are very similar to your data, but have a different prediction
 (to be continued)
 
 ---
-title: Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks
-subtitle: Alexander Stevens, Johannes De Smedt, Jari Peeperkorn, Jochen De Weerdt
-cover-img: /assets/img/robustness.png
-thumbnail-img: /assets/img/framework_robustness.png
-share-img: /assets/img/robustness.png
-tags: [conference, robustness, XAI]
-comments: true
----
+# Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks
+*Alexander Stevens, Johannes De Smedt, Jari Peeperkorn, Jochen De Weerdt*
+
+![framework_robustness](https://user-images.githubusercontent.com/75080516/207946995-349594d1-858c-420e-89a5-f43735492ec7.png)
 
 As machine and deep learning models are increasingly leveraged in predictive process monitoring, the focus has shifted towards making these models explainable. 
 The successful adoption of a model is dependent on whether decision-makers can trust the predictions and explanations made. 
