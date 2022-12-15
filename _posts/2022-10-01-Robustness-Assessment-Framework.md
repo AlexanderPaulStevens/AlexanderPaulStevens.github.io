@@ -2,9 +2,7 @@
 layout: post
 title: Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks
 subtitle: Alexander Stevens, Johannes De Smedt, Jari Peeperkorn, Jochen De Weerdt
-cover-img: /assets/img/robustness.png
 thumbnail-img: /assets/img/framework_robustness.png
-share-img: /assets/img/robustness.png
 tags: [conference, robustness, XAI]
 comments: true
 
