@@ -4,7 +4,6 @@ layout: page
 show-avatar: True
 ---
 
-
 ## 2022 (Published)
 
 **[4]** Peeperkorn, J., Vázquez, C.O., Stevens, A., De Smedt, J., vanden Broucke, S. and De Weerdt, J., Outcome-Oriented Predictive Process Monitoring on Positive and Unlabelled Event Logs.
