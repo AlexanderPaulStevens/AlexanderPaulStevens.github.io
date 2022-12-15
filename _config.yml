@@ -53,11 +53,8 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
   github: daattali
   twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -73,8 +70,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+ORCID: https://orcid.org/my-orcid?orcid=0000-0001-6140-8788
+google-scholar: https://scholar.google.be/citations?user=fNeFT5EAAAAJ&hl=en
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -90,7 +87,6 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
   linkedin: true
   vk: false
 
@@ -109,9 +105,6 @@ feed_show_tags: true
 
 # Add a search button to the navbar
 post_search: true
-
-# Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
