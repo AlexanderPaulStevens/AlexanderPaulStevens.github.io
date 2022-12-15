@@ -16,3 +16,8 @@ After exploring the concepts of interpretability, you will learn about simple, i
 All interpretation methods are explained in depth and discussed critically. How do they work under the hood? What are their strengths and weaknesses? How can their outputs be interpreted? This book will enable you to select and correctly apply the interpretation method that is most suitable for your machine learning project. Reading the book is recommended for machine learning practitioners, data scientists, statisticians, and anyone else interested in making machine learning models interpretable.
 
 The book is accessible with this [link](https://christophm.github.io/interpretable-ml-book/).
+
+### Warning
+
+{: .box-warning}
+**Warning:** I did not contribute to this book, nor did I specifically asks for permission to post this. 
