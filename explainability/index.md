@@ -12,16 +12,10 @@ Examples are SHAP, LIME
 
 LR,DT,LLM,GLRM
 
----
-layout: post
-title: Interpretable Machine Learning
-subtitle: A must read book written by Christoph Molnar
-cover-img: /assets/img/explainability.jpg
-thumbnail-img: /assets/img/IML.png
-share-img: /assets/img/explainability.jpg
-tags: [books, XAI]
-comments: true
-(to be continued)
+# Interpretable Machine Learning
+A must read book written by Christoph Molnar
+
+![explainability](https://user-images.githubusercontent.com/75080516/207945812-be613618-e742-485e-9262-25901c00c7a0.jpg)
 
 ---
 
@@ -30,6 +24,8 @@ Machine learning has great potential for improving products, processes and resea
 After exploring the concepts of interpretability, you will learn about simple, interpretable models such as decision trees, decision rules and linear regression. The focus of the book is on model-agnostic methods for interpreting black box models such as feature importance and accumulated local effects, and explaining individual predictions with Shapley values and LIME. In addition, the book presents methods specific to deep neural networks.
 
 All interpretation methods are explained in depth and discussed critically. How do they work under the hood? What are their strengths and weaknesses? How can their outputs be interpreted? This book will enable you to select and correctly apply the interpretation method that is most suitable for your machine learning project. Reading the book is recommended for machine learning practitioners, data scientists, statisticians, and anyone else interested in making machine learning models interpretable.
+
+![IML](https://user-images.githubusercontent.com/75080516/207945781-bdedc6d6-3c67-4c10-8f58-17e88c36d447.png)
 
 The book is accessible with this [link](https://christophm.github.io/interpretable-ml-book/).
 
