@@ -15,7 +15,6 @@ The examples that are very similar to your data, but have a different prediction
 (to be continued)
 
 ---
-layout: page
 title: Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks
 subtitle: Alexander Stevens, Johannes De Smedt, Jari Peeperkorn, Jochen De Weerdt
 cover-img: /assets/img/robustness.png
