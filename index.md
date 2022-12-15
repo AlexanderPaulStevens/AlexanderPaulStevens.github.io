@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Alexander Paul Stevens (WiP)
-subtitle: GitPage for Alexander Paul Stevens
+subtitle: Ph.D. researcher in Explainable and Trustworthy AI in Business Process Outcome Prediction
 ---
 
 <p align="justify">
