@@ -10,9 +10,9 @@ comments: true
 The growing interest in applying machine and deep learning
 algorithms in an Outcome-Oriented Predictive Process Monitoring
 (OOPPM) context has recently fuelled a shift to use models from the explainable
-articial intelligence (XAI) paradigm, a eld of study focused
+artificial intelligence (XAI) paradigm, a field of study focused
 on creating explainability techniques on top of AI models in order to
-legitimize the predictions made. Nonetheless, most classication models
+legitimize the predictions made. Nonetheless, most classification models
 are evaluated primarily on a performance level, where XAI requires
 striking a balance between either simple models (e.g. linear regression)
 or models using complex inference structures (e.g. neural networks) with
