@@ -22,7 +22,7 @@ author: Alexander Paul Stevens
 navbar-links:
     About Me: aboutme
     Research Topics:
-    - "explainability"
+    - "XAI"
     - "robustness"
     - "Predictive Process Monitoring"
     Papers: "papers
