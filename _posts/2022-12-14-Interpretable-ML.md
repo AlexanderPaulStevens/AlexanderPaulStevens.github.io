@@ -17,7 +17,5 @@ All interpretation methods are explained in depth and discussed critically. How 
 
 The book is accessible with this [link](https://christophm.github.io/interpretable-ml-book/).
 
-### Warning
-
 {: .box-warning}
 **Warning:** I did not contribute to this book, nor did I specifically asks for permission to post this. 
