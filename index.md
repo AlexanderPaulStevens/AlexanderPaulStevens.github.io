@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Alexander Paul Stevens
-subtitle: Ph.D. researcher in Explainable and Trustworthy AI in Business Process Outcome Prediction
+subtitle: Ph.D. researcher in Explainable and Trustworthy AI in Process Outcome Prediction
 ---
 
 <p align="justify">
