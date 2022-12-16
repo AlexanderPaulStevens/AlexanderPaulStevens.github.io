@@ -3,7 +3,7 @@ layout: post
 title: Quantifying Explainability in Outcome-Oriented Predictive Process Monitoring
 subtitle: Alexander Stevens, Johannes De Smedt, Jari Peeperkorn
 thumbnail-img: /assets/img/definition.PNG
-tags: [conference, explainability, XAI]
+tags: [conference, explainability]
 comments: true
 ---
 
