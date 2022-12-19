@@ -4,19 +4,19 @@ layout: page
 show-avatar: false
 ---
 
-# Papers (in preparation)
+# Papers In Preparation
 
 ## 2023 
 
-**[7]** Stevens, A. Peeperkorn, J. De Smedt, J., On-manifold Adversarial Training to Improve Robustness and Generalization in Outcome-Oriented Predictive Process Monitoring, In Preparation.
+**[7]** Stevens, A. Peeperkorn, J. De Smedt, J., On-manifold Adversarial Training to Improve Robustness and Generalization in Outcome-Oriented Predictive Process Monitoring.
 
-**[6]** Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., vanden Broucke, S. Baesens, B., A Review and Experimental Evaluation of the State-of-the-art in Text, In Preparation
+**[6]** Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., vanden Broucke, S. Baesens, B., A Review and Experimental Evaluation of the State-of-the-art in Text.
 
-# Papers (in submission)
+# Papers In Submission
 
 ## 2022
 
-**[5]** Stevens, A., De Smedt, J., Explainability in Process Outcome Prediction: Guidelines to Obtain Interpretable and Faithful Models. European Journal on Operational Research (In submission).
+**[5]** Stevens, A., De Smedt, J., Explainability in Process Outcome Prediction: Guidelines to Obtain Interpretable and Faithful Models. European Journal on Operational Research.
 
 # Accepted Papers
 
