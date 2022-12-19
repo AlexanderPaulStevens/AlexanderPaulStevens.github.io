@@ -13,7 +13,7 @@ non-transparent machine learning and deep learning models complemented with post
 
 ![guidelines](https://user-images.githubusercontent.com/75080516/207954132-4742ce74-7031-4595-a488-a97d98f0a428.png)
 
-Link to paper: <a href="username.github.io/folder/ExplainableProcessOutcomePrediction(ArXiV).pdf" target="_blank">PDF.</a>
+  Link to paper: <a href="alexanderpaulstevens.github.io/folder/ExplainableProcessOutcomePrediction(ArXiV).pdf" target="_blank">PDF.</a>
 
 # Quantifying Explainability in Outcome-Oriented Predictive Process Monitoring
 
