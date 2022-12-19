@@ -38,7 +38,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/LIRIS.jpg"
 
 
 #####################################
@@ -51,12 +51,12 @@ social-network-links:
   email: "alexander.stevens@kuleuven.be"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: AlexanderPaulStevens
-  twitter: APMJStevens
+  #twitter: APMJStevens
   ORCID: my-orcid?orcid=0000-0001-6140-8788
   google-scholar: citations?user=fNeFT5EAAAAJ&hl=en
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: alexander-stevens-354b41183/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -83,7 +83,7 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: False
   linkedin: true
   vk: false
 
