@@ -6,6 +6,8 @@ show-avatar: false
 
 # Submitted Papers
 
+## 2022
+
 **[5]** Stevens, A., De Smedt, J., Explainability in Process Outcome Prediction: Guidelines to Obtain Interpretable and Faithful Models. European Journal on Operational Research (In submission).
 
 # Accepted Papers
