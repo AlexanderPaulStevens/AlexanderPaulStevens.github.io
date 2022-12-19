@@ -4,7 +4,15 @@ layout: page
 show-avatar: false
 ---
 
-# Submitted Papers
+# Papers (in preparation)
+
+## 2023 
+
+**[7]** Stevens, A. Peeperkorn, J. De Smedt, J., On-manifold Adversarial Training to Improve Robustness and Generalization in Outcome-Oriented Predictive Process Monitoring, In Preparation.
+
+**[6]** Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., vanden Broucke, S. Baesens, B., A Review and Experimental Evaluation of the State-of-the-art in Text, In Preparation
+
+# Papers (in submission)
 
 ## 2022
 
