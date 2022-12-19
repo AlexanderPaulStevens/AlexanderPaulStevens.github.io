@@ -22,3 +22,5 @@ The growing interest in applying machine and deep learning algorithms in an Outc
 *Alexander Stevens, Johannes De Smedt, Jari Peeperkorn*
 
 ![definition](https://user-images.githubusercontent.com/75080516/207955809-7142abfd-b71a-4ffe-8889-c1078db73028.PNG)
+
+Link to paper: <a href="/folder/Quantifying Explainability in Outcome-Oriented Predictive Process Monitoring_PostProceedingVersion.pdf" target="_blank">PDF.</a>
