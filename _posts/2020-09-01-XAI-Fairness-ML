@@ -2,7 +2,7 @@
 layout: post
 title: Explainability and Fairness in Machine Learning   
 subtitle: Alexander Stevens, Peter Deruyck, Ziboud Van Veldhoven, Jan Vanthienen
-thumbnail-img: /assets/img/PCA.png
+#thumbnail-img: /assets/img/PCA.png
 tags: [conference, XAI, fairness]
 comments: true
 ---
