@@ -14,15 +14,17 @@ show-avatar: false
 
 # Papers In Submission
 
-## 2022
+## 2023
 
 **[5]** Stevens, A., De Smedt, J., Explainability in Process Outcome Prediction: Guidelines to Obtain Interpretable and Faithful Models. European Journal on Operational Research.
 
 # Accepted Papers
 
-## 2022
+## 2023
 
 **[4]** Peeperkorn, J., Vázquez, C.O., Stevens, A., De Smedt, J., vanden Broucke, S. and De Weerdt, J., Outcome-Oriented Predictive Process Monitoring on Positive and Unlabelled Event Logs. International Conference on Process Mining.
+
+## 2022
 
 **[3]** Stevens, A., De Smedt, J., Peeperkorn, J. and De Weerdt, J., 2022. Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks. International Conference on Process Mining.
 
