@@ -23,4 +23,4 @@ The growing interest in applying machine and deep learning algorithms in an Outc
 
 ![definition](https://user-images.githubusercontent.com/75080516/207955809-7142abfd-b71a-4ffe-8889-c1078db73028.PNG)
 
-Link to paper: <a href="/folder/Quantifying Explainability in Outcome-Oriented Predictive Process Monitoring_PostProceedingVersion.pdf" target="_blank">PDF.</a>
+DOI: https://doi.org/10.1007/978-3-030-98581-3_15
