@@ -129,7 +129,7 @@ hover-col: "purple"
 footer-col: "silver"
 #footer-text-col: "#777777"
 footer-text-col: "white"
-footer-link-col: "blue"
+footer-link-col: "darkblue"
 footer-hover-col: "purple"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
