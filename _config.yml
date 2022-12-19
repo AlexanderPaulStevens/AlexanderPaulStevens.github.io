@@ -23,7 +23,9 @@ navbar-links:
     #About Me: aboutme
     Explainability: "explainability"
     Robustness: "robustness"
+    Fairness: "fairness"
     Papers: "papers"
+    
 
 ################
 # --- Logo --- #
