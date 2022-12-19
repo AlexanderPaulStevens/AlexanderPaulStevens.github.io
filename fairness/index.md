@@ -11,3 +11,5 @@ Artificial Intelligence is finding its way to ever more applications. Nonetheles
 *Alexander Stevens, Peter Deruyck, Ziboud Van Veldhoven, Jan Vanthienen*
 
 ![PCA](https://user-images.githubusercontent.com/75080516/208426139-9539d504-b6f6-4329-afa4-3cf93056a9af.png)
+
+<a href="10.1109/SSCI47803.2020.9308371"> DOI </a>
