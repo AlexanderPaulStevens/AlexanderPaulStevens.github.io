@@ -25,6 +25,29 @@ navbar-links:
     Robustness: "robustness"
     Papers: "papers"
 
+
+<div class="container theme-showcase" role="main">
+      <div class="row">
+	<div class="col-md-3">
+	  <h3>Hima Lakkaraju</h3>
+	  <img class="img-thumbnail" src="images/hima-2019.jpg" alt="" style="width:70%"/>
+	  <br /><br />
+	  <h4>Contact</h4>
+	<font size="3"><a href="mailto:hlakkaraju@hbs.edu" class="icon fa-envelope"></a> hlakkaraju@hbs.edu<br />
+	<font size="3"><a href="mailto:hlakkaraju@seas.harvard.edu" class="icon fa-envelope"></a> hlakkaraju@seas.harvard.edu<br />
+	<br>
+	<a href="https://www.google.com/maps/place/Morgan+Hall,+15+Harvard+Way,+Boston,+MA+02163/@42.3656487,-71.1235283,13z/data=!4m5!3m4!1s0x89e37760e1889289:0x9bdcdfeb1d014231!8m2!3d42.3667941!4d-71.123931" class="icon fa-building"></a> 428 Morgan Hall<br />
+	<a href="https://www.google.com/maps/place/Maxwell-Dworkin,+33+Oxford+St,+Cambridge,+MA+02138/data=!4m2!3m1!1s0x89e37741136f99f3:0xdee244d8cde0c0dc?sa=X&ved=2ahUKEwj5m4CM8OfkAhVyZN8KHZt5AooQ8gEwAHoECAwQAQ" class="icon fa-building"></a> 337 Maxwell Dworkin<br />
+	<br>
+	<a href="https://twitter.com/hima_lakkaraju" class="icon fa-twitter"></a> @hima_lakkaraju<br />
+	<a href="https://github.com/lvhimabindu" class="icon fa-github"></a> lvhimabindu<br />	  </font>
+	</div>
+	
+	<div class="col-md-9">
+	  <br /><br />
+	  <h3></h3>
+	  <font size="3">
+
 ################
 # --- Logo --- #
 ################
