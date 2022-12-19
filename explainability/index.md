@@ -23,4 +23,6 @@ The growing interest in applying machine and deep learning algorithms in an Outc
 
 ![definition](https://user-images.githubusercontent.com/75080516/207955809-7142abfd-b71a-4ffe-8889-c1078db73028.PNG)
 
-DOI: https://doi.org/10.1007/978-3-030-98581-3_15
+Link to paper: <li class="masthead__menu-item">
+          <a href="[xxx.github.io/research.html](https://doi.org/10.1007/978-3-030-98581-3_15)">DOI</a>
+        </li>
