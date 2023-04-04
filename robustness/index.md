@@ -20,3 +20,11 @@ Results show that especially neural networks suffer from adversarial attacks, an
 ![framework_robustness](https://user-images.githubusercontent.com/75080516/207954025-bd0ed25a-d0bd-403e-9eb0-63cf5ab1d94c.png)
 
 Link to paper: <a href="https://ieeexplore.ieee.org/document/9980753)"> here </a>
+
+# Manifold Learning to Improve Robustness and Generalization in Process Outcome Prediction
+
+In recent years, machine and deep learning methods have been successfully introduced to the field of predictive process monitoring to perform several predictive tasks such as predicting the next activity, remaining time, or the future state of a process instance (case). Nonetheless, recent developments have shown the vulnerability of these models against adversarial attacks, tricking the algorithms into making incorrect predictions. Despite this, these incorrect predictions can help make a model generalize better, as it enables it to learn noise or specifically engineered (hidden) attacks. In this paper, we propose the use of manifold learning to generate natural adversarial examples that are restricted within the range of data that the model is trained on, i.e. adversarial examples that are restricted to its class-specific manifold. The experimental evaluation suggests that learning from these on-manifold adversarial examples disentangles the trade-off between adversarial robustness and generalization, showing that there exist models that remain accurate on new, unseen data, while being robust against worst-case adversarial treats. In some cases, the introduced methodology acts as an event log enhancement technique, as it even improves generalization. This paper paves the way for more accurate and robust predictive models in the field of predictive process monitoring.
+
+*Alexander Stevens, Jari Peeperkorn, Johannes De Smedt, Jochen De Weerdt*
+
+![On-manifold training](https://user-images.githubusercontent.com/75080516/229744467-9b6bad21-5f83-45a5-b40a-bbe4942faa33.PNG)
