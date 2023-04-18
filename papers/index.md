@@ -8,10 +8,11 @@ show-avatar: false
 
 ## 2023 
 
-**[7]** Stevens, A. Peeperkorn, J. De Smedt, J., De Weerdt, J., Manifold Learning to Improve Robustness
-and Generalization in Process Outcome Prediction.
+**[8]** Stevens, A. Peeperkorn, J. De Smedt, J., De Weerdt, J., Manifold Learning to Improve Robustness and Generalization in Process Outcome Prediction. International Conference on Business Process Management 
 
-**[6]** Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., vanden Broucke, S. Baesens, B., Evaluating Text Classification: A Benchmark Study
+**[7]** J. De Smedt, Stevens, A., De Weerdt, J., vanden Broucke, S., Does the Case Matter? Process Predictions Balancing Log and Trace Information with Co-attention. International Conference on Business Process Management
+
+**[6]** Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., vanden Broucke, S., Baesens, B., Evaluating Text Classification: A Benchmark Study
 
 # Papers In Revision
 
