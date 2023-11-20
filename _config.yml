@@ -22,7 +22,9 @@ author: Alexander Paul Stevens
 navbar-links:
     #About Me: aboutme
     Explainability: "explainability"
+    Counterfactuals: "counterfactuals"
     Robustness: "robustness"
+    Manifold Learning: "manifold learning"
     Fairness: "fairness"
     Papers: "papers"
     
