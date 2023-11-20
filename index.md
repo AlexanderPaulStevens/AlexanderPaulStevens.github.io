@@ -12,5 +12,6 @@ This website is meant to elaborate more on the interesting fields related to <st
 <p></p><p></p><p></p>
 If you have any questions or want to have interesting discussions about these topics, feel free to contact me!
 <p></p><p></p>
+<p align="justify">
 ✉️: alexander.stevens@telenet.be
 
