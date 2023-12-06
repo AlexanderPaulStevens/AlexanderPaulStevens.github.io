@@ -3,12 +3,15 @@ title: Reference List
 layout: page
 show-avatar: false
 ---
+# Papers In Preparation
+
+**[12]** Stevens, A. Ouyang, C., De Smedt, J., Moreira, C., Generating Feasible and Plausible Counterfactual Explanations for Predictive Process Analytics.
 
 # Papers In Submission
 
 ## 2023 
 
-**[11]** J. De Smedt, Stevens, A., De Weerdt, J., vanden Broucke, S., Does the Case Matter? Process Predictions Balancing Log and Trace Information with Co-attention. International Conference on Process Mining
+**[11]** J. De Smedt, Stevens, A., De Weerdt, J., vanden Broucke, S., Does the Case Matter? Process Predictions Balancing Log and Trace Information with Co-attention.
 
 **[10]** Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., vanden Broucke, S., Baesens, B., Evaluating Text Classification: A Benchmark Study
 
