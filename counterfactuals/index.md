@@ -3,6 +3,6 @@ title: Counterfactuals
 layout: page
 show-avatar: True
 ---
-# Counterfactual Explanations in Process Outcome Prediction
+# Generating Feasible and Plausible Counterfactual Explanations for Outcome Prediction of Business Processes
 
 More information coming soon.
